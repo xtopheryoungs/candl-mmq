@@ -1,0 +1,22 @@
+{
+    "name": "educationcontent",
+    "version": "8.0.2",
+    "dependencies": {
+        "core": "*",
+        "builder": "*"
+    },
+    "files": [
+        "tutorials/lesson-1.md",
+        "tutorials/lesson-2.md",
+        "tutorials/lesson-3.md",
+        "tutorials/lesson-4.md"
+    ],
+    "targetVersions": {
+        "target": "1.6.8",
+        "targetId": "minecraft"
+    },
+    "supportedTargets": [
+        "minecraft"
+    ],
+    "preferredEditor": "tsprj"
+}
